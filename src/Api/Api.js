@@ -1,6 +1,6 @@
 const api = {
-  getBallotData() {
-    return fetch('/api/getBallotData').then(res => {
+  getComputationOptionsData() {
+    return fetch('/api/computation-options').then(res => {
       return res.json();
     });
   }
