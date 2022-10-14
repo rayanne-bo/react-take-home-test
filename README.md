@@ -25,7 +25,7 @@ Here are the rules of this challenge.. you must:
  5) Create components as you feel is best suited for your solution
 
 ![Wireframe](src/take-home-wire.png?raw=true "Wireframe")
-![Success Modal Wireframe](src/take-home-completed.png?raw=true "Success Modal Wireframe")
+![Success Modal Wireframe](src/take-home-wire-completed.png?raw=true "Success Modal Wireframe")
 
 ## Bonuses
 2) Make it pretty
