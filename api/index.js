@@ -51,6 +51,21 @@ const generateComputationOptionsData = () => {
             name: 'Asea Tanzania',
             photoUrL: 'https://www.cma-cgm.fr/produits-services/lignes-maritimes/serviceflyermap?serviceCode=ASEA',
             id: 'asea-tanzania'
+          },
+          {
+            name: 'North Europe French West Indies',
+            photoUrL: 'https://www.cma-cgm.fr/produits-services/lignes-maritimes/serviceflyermap?serviceCode=NEFWI',
+            id: 'north-europe-french-west-indies'
+          },
+          {
+            name: 'Tanger Med - West Africa',
+            photoUrL: 'https://www.cma-cgm.fr/produits-services/lignes-maritimes/serviceflyermap?serviceCode=EURAF4',
+            id: 'tanger-med-west-africa'
+          },
+          {
+            name: 'North Europe - West Africa',
+            photoUrL: 'https://www.cma-cgm.fr/produits-services/lignes-maritimes/serviceflyermap?serviceCode=EURAF1',
+            id: 'north-europe-west-africa'
           }
         ],
         title: "Maritime Lines"
