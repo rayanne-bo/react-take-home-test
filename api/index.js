@@ -77,6 +77,26 @@ const generateComputationOptionsData = () => {
             name: 'Norsepower rotor sail',
             photoUrL: 'https://shipinsightv2.wpenginepowered.com/wp-content/uploads/2020/11/norsepower_tilt-768x512.jpg',
             id: 'norsepower-rotor-sail'
+          },
+          {
+            name: 'Michelin Wisamo',
+            photoUrL: 'https://www.usinenouvelle.com/mediatheque/9/5/3/000976359_896x598_c.png',
+            id: 'michelin-wisamo'
+          },
+          {
+            name: 'Ayro Oceanwings',
+            photoUrL: 'https://assets.meretmarine.com/s3fs-public/styles/large_xl/public/images/2020-12/c4_14.jpg?h=4997dc06&itok=5RN55_mF',
+            id: 'ayro-oceanwings'
+          },
+          {
+            name: 'Beyond the sea Seakite',
+            photoUrL: 'https://www.kiteboarder-mag.com/media/2022/3-mars/beyond_the-sea__fit_687x242.jpg',
+            id: 'beyond-the-sea-seakite'
+          },
+          {
+            name: 'Aeoldrive Solidsail',
+            photoUrL: 'https://chantiers-atlantique.com/wp-content/uploads/2020/01/ca2fb8133070edb4aae459d2bc25b2b7cfe573b4.png',
+            id: 'aeoldrive-solidsail'
           }
         ],
         name: "Wind propulsion system"
