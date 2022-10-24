@@ -28,6 +28,7 @@ Here are the rules of this challenge.. you must:
 ![Success Modal Wireframe](src/take-home-wire-completed.png?raw=true "Success Modal Wireframe")
 
 ## Bonuses
+1) Use TypeScript
 2) Make it pretty
 3) Make it accessible
 4) Add unit tests
