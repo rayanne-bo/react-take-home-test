@@ -1,7 +1,9 @@
 const express = require('express');
+var cors = require('cors')
 
 const app = express();
 
+app.use(cors()) // Use this after the variable declaration
 const port = process.env.PORT || 8080;
 app.listen(port);
 
